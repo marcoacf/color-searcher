@@ -23,5 +23,3 @@ Ele usa um csv com a lista de cores, no repositório GitHub que bifurquei e usan
 ![searching for blue](images/blue.png)
 
 ![searching for green](images/green.png)
-
-![searching for another colors](images/cores.png)
